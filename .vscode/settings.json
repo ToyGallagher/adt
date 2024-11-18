@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c",
+        "list": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "unordered_set": "cpp",
+        "algorithm": "cpp",
+        "xtree": "cpp",
+        "ostream": "cpp",
+        "deque": "cpp",
+        "xstring": "cpp",
+        "initializer_list": "cpp",
+        "xhash": "cpp",
+        "xutility": "cpp"
+    }
+}
